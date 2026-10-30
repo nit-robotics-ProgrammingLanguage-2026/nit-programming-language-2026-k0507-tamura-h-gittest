@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0507"
+secret: "nmm2dsr0"
+owner:
+  username: "tamura-h-gittest"
+  id: 329423682
+  accepted_at: "2026-10-30T03:28:27Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0507-ai_review_grade"
+  branch: "main"
